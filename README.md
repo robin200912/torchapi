@@ -4,7 +4,7 @@ TorchApi is api for training and predicting model with pytorch.
 
 It is written in Python using asynchronous framework Sanic.
 
-It can run multiple tasks at the same time.
+It can run multiple tasks at the same time, like celery but simple.
 
 ## Requirements
 * Python 3.8.5
