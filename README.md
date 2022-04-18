@@ -13,9 +13,9 @@ It is written in Python using asynchronous framework Sanic.
 
 put http://localhost:8000/image
 
-![](/Users/liguobin/Projects/torchapi/api/algo/data/horse.jpg)
+![](https://github.com/robin200912/torchapi/blob/master/api/algo/data/horse.jpg)
 
-![](/Users/liguobin/Projects/torchapi/api/algo/data/postman.png)
+![](https://github.com/robin200912/torchapi/blob/master/api/algo/data/postman.png)
 
 ## contact
 wechat: robin201107
