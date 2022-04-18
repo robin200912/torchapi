@@ -8,7 +8,7 @@ It can run multiple tasks at the same time.
 
 ## Requirements
 * Python 3.8.5
-* Sanic v22.3.0
+* Sanic 22.3.0
 * `pip install -r requirements.txt`
 
 ## Demo
