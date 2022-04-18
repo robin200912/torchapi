@@ -13,7 +13,7 @@ It can run multiple tasks at the same time.
 
 ## Demo
 
-put http://localhost:8000/image
+Put http://localhost:8000/image
 
 ![](https://github.com/robin200912/torchapi/blob/master/api/algo/data/horse.jpg)
 
