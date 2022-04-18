@@ -1,0 +1,8 @@
+# MySql
+MYSQL_URL = "mysql://root:root@localhost/test"
+
+# REDIS
+REDIS_HOST = ""
+REDIS_PASSWORD = ""
+REDIS_PORT = ""
+REDIS_DATABASE = ""
